@@ -1,0 +1,9 @@
+[submodule "Assets/GameMachineCommon"]
+	path = Assets/GameMachineCommon
+	url = https://nanclin@github.com/nanclin/GameMachineCommon.git
+[submodule "Assets/Games/Game1"]
+	path = Assets/Games/Game1
+	url = https://nanclin@github.com/nanclin/GameMachine_Game1.git
+[submodule "Assets/Games/Game2"]
+	path = Assets/Games/Game2
+	url = https://nanclin@github.com/nanclin/GameMachine_Game2.git
