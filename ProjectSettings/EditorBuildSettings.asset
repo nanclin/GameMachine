@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/GameMachineCommon/Scenes/Main.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Games/Game1/Assets/Scenes/Game1.unity
-    guid: 27f8d3dbe2eaa437e8215d0adb485b0d
-  - enabled: 1
-    path: Assets/Games/Game2/Assets/Scenes/Game2.unity
-    guid: b30a33667a058472c98651a9435e3ac9
+    path: Assets/Games/TemplateGame/Assets/Scenes/TemplateGame.unity
+    guid: eb3881820baf04682b61fc120cb63fd6
   m_configObjects: {}
